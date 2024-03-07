@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using API_Projet.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<API_ProjetContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("API_ProjetContext") ?? throw new InvalidOperationException("Connection string 'API_ProjetContext' not found.")));
 
 // Add services to the container.
 
