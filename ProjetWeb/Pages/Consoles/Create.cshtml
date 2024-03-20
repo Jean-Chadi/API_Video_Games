@@ -1,0 +1,64 @@
+﻿@page
+@model ProjetWeb.Pages.Consoles.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ConsoleJeu</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.Model" class="control-label"></label>
+                <input asp-for="ConsoleJeu.Model" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.Brand" class="control-label"></label>
+                <input asp-for="ConsoleJeu.Brand" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.Brand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.CountryBrand" class="control-label"></label>
+                <input asp-for="ConsoleJeu.CountryBrand" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.CountryBrand" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.ReleaseYear" class="control-label"></label>
+                <input asp-for="ConsoleJeu.ReleaseYear" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.ReleaseYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.Price" class="control-label"></label>
+                <input asp-for="ConsoleJeu.Price" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.UnitsSoldInMillions" class="control-label"></label>
+                <input asp-for="ConsoleJeu.UnitsSoldInMillions" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.UnitsSoldInMillions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsoleJeu.SalesYear" class="control-label"></label>
+                <input asp-for="ConsoleJeu.SalesYear" class="form-control" />
+                <span asp-validation-for="ConsoleJeu.SalesYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

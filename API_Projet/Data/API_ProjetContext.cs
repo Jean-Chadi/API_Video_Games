@@ -15,5 +15,6 @@ namespace API_Projet.Data
         }
 
         public DbSet<API_Projet.Models.ConsoleJeu> ConsoleJeu { get; set; } = default!;
+        
     }
 }

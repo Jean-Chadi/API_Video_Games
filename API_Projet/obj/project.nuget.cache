@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CwR9Yno4H3Xi9hgJeUWpinsOPHQVZcZgTmq7kb3aqtB+7Z4cvd3Vq0ScSfTs5hptD3nLc3a+Z/duZ6MDSDAjUw==",
+  "dgSpecHash": "qLmUWEEqHhl5ecujv4hOSNJeUz+F3DrLortYHV2v0cv2IuTflPJK7O3ONomZyP9FplN2nyLD0py8PsO0/7U4QA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tpari\\OneDrive\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Projet\\API_Projet\\API_Projet.csproj",
+  "projectFilePath": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\API_Projet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tpari\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tpari\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

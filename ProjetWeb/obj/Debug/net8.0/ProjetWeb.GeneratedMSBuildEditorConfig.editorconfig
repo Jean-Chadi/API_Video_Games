@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetWeb
+build_property.RootNamespace = ProjetWeb
+build_property.ProjectDir = C:\Users\tpari\OneDrive - ESIGELEC\Documents\ESIGELEC\SEMESTRE 8\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\API_Video_Games\ProjetWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tpari\OneDrive - ESIGELEC\Documents\ESIGELEC\SEMESTRE 8\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\API_Video_Games\ProjetWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Consoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc29sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Consoles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc29sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Consoles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc29sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Consoles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc29sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Consoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc29sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tpari/OneDrive - ESIGELEC/Documents/ESIGELEC/SEMESTRE 8/DEVELOPPEMENT C\# ET SERVICES CLOUD AZURE/API_Video_Games/ProjetWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zlhy2xyzhe

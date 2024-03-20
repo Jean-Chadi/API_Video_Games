@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Uxr/fL4RoErzXkKUm6lp8guTLVuRZFW0pmR85uyJuBQ=",
+  "Hash": "iL/tsEOrPscGE88rkwRTDyN+CgHKubdX36aPfx9DvfU=",
   "Source": "API_Projet",
   "BasePath": "_content/API_Projet",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\tpari\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.2\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\tpari\\OneDrive\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Projet\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css",
+      "Identity": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css",
       "SourceId": "API_Projet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tpari\\OneDrive\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Projet\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/API_Projet",
       "RelativePath": "API_Projet.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tpari\\OneDrive\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Projet\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css"
+      "OriginalItemSpec": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css"
     }
   ]
 }
