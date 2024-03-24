@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iL/tsEOrPscGE88rkwRTDyN+CgHKubdX36aPfx9DvfU=",
+  "Hash": "zloGIToVSJiFLSwHXlVKjhF237tX00iTbGP3WhI+cuY=",
   "Source": "API_Projet",
   "BasePath": "_content/API_Projet",
   "Mode": "Default",
@@ -8,6 +8,25 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": [
+    {
+      "Identity": "C:\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css",
+      "SourceId": "API_Projet",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/API_Projet",
+      "RelativePath": "API_Projet.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css"
+    },
     {
       "Identity": "C:\\Users\\tpari\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.2\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
@@ -45,25 +64,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\tpari\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.2\\staticwebassets\\QuickGrid.razor.js"
-    },
-    {
-      "Identity": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css",
-      "SourceId": "API_Projet",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/API_Projet",
-      "RelativePath": "API_Projet.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\API_Projet.styles.css"
     }
   ]
 }

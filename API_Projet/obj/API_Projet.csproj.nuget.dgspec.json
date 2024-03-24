@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\API_Projet.csproj": {}
+    "C:\\API_Video_Games\\API_Projet\\API_Projet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\API_Projet.csproj": {
+    "C:\\API_Video_Games\\API_Projet\\API_Projet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\API_Projet.csproj",
+        "projectUniqueName": "C:\\API_Video_Games\\API_Projet\\API_Projet.csproj",
         "projectName": "API_Projet",
-        "projectPath": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\API_Projet.csproj",
+        "projectPath": "C:\\API_Video_Games\\API_Projet\\API_Projet.csproj",
         "packagesPath": "C:\\Users\\tpari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tpari\\OneDrive - ESIGELEC\\Documents\\ESIGELEC\\SEMESTRE 8\\DEVELOPPEMENT C# ET SERVICES CLOUD AZURE\\API_Video_Games\\API_Projet\\obj\\",
+        "outputPath": "C:\\API_Video_Games\\API_Projet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tpari\\AppData\\Roaming\\NuGet\\NuGet.Config",
