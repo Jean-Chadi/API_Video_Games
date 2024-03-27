@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcxofDcUcH0OGv3IZikiS/AAAAAACAAAAAAAQZgAAAAEAACAAAABY0sbGK15h00u2nS/LfqAq3s/jtafd8g38LJ9PsjBadQAAAAAOgAAAAAIAACAAAAAADqun4ZiE90RmOQpJZs8vdOPm7E5ZgJFBeOEw1NdIE4AAAACcOTWZGCRX0H7eqn6YGEiE365O/oVPR6yzwVi5TJgtCJjEQw6WX6ENTMhS3kqMTfM/r9tAmKS4spizdTEXfkUysa/6NMGLtxGenr8KdnZ3hWtxs6Tgk0ATS/DZIbdMvevOGDEi6X0PKVSEw4Z01GNg+SG9qlG/1UKkTo3Km9vPEkAAAAD00K56RmbsETaUFLy6bYC00kIr/PwNKr3oJaMPQX+Gk3nPIYDLxqhpTfUpb4jfuWOsNjV6WrrnOS9pXwQ0h285</EncryptedPassword>
+    <History>True|2024-03-27T10:17:27.0441957Z;True|2024-03-27T11:12:40.9917479+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="API_ProjetContext">
+      <Value>Data Source=projetwebdb.database.windows.net,1433%3bInitial Catalog=ProjetWeb_db%3bUser ID=totoJC%3bPassword=123Soleil!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="API_Projet.Data.API_ProjetContext">
+      <Value>Data Source=projetwebdb.database.windows.net,1433%3bInitial Catalog=ProjetWeb_db%3bUser ID=totoJC%3bPassword=123Soleil!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

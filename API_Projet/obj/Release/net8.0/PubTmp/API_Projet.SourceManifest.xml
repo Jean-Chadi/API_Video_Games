@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\API_Video_Games\API_Projet\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\API_Video_Games\API_Projet\obj\Release\net8.0\PubTmp\EFSQLScripts\API_Projet.Data.API_ProjetContext.sql" />
+</sitemanifest>

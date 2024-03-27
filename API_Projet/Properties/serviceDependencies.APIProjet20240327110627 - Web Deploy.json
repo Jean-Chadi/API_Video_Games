@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/APIProjetBDTN/apis/APIProjetBDTN",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/APIProjet20240327110627/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsAPI_ProjetContext_108B4DEC70",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/apiprojetbdtn/databases/API_Projet_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:API_ProjetContext"
+    }
+  }
+}
